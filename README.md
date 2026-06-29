@@ -1,8 +1,8 @@
 ## 🟢 Elson Motoyama
 
-**`Desenvolvedor C#.NET | Angular`**
+**`Desenvolvedor C#.NET | IA`**
 
-Desenvolvedor C#.NET há mais de 8 anos. Entusiasta de Inteligência Artificial, conectado às principais novidades da área. Conquistada recentemente uma certificação Oracle. Sempre em busca de novos aprendizados.
+Desenvolvedor C#.NET há mais de 10 anos. Entusiasta de Inteligência Artificial, conectado às principais novidades da área. Conquistada certificação Oracle em IA. Sempre em busca de novos aprendizados.
 
 ---
 
@@ -12,7 +12,7 @@ Desenvolvedor C#.NET há mais de 8 anos. Entusiasta de Inteligência Artificial,
 
 <img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
-<img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<!--<img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />-->
 
 <img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -24,7 +24,7 @@ Desenvolvedor C#.NET há mais de 8 anos. Entusiasta de Inteligência Artificial,
           
 <img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-<img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<!--<img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 <img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
               
@@ -38,4 +38,4 @@ Desenvolvedor C#.NET há mais de 8 anos. Entusiasta de Inteligência Artificial,
 
 <img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
  
-<img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
+<img style="padding-left:10px" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />-->
